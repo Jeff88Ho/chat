@@ -1,20 +1,17 @@
 
-# Socket.IO Chat
+# chatie
 
 A simple chat demo for socket.io
 
 ## How to use
 
 ```
-$ cd socket.io
+$ cd chatie
 $ npm install
-$ cd examples/chat
-$ npm install
-$ node .
+$ node index.js
 ```
 
-And point your browser to `http://localhost:3000`. Optionally, specify
-a port by supplying the `PORT` env variable.
+Point your browser to `http://localhost:3000` or a port by supplying the `PORT` env variable.
 
 ## Features
 
@@ -22,4 +19,4 @@ a port by supplying the `PORT` env variable.
 on website load.
 - Users can type chat messages to the chat room.
 - A notification is sent to all users when a user joins or leaves
-the chatroom.
+the chatie.

@@ -1,11 +1,8 @@
 {
-  "name": "socket.io-chat",
+  "name": "chatie",
   "version": "0.0.0",
-  "description": "A simple chat client using socket.io",
+  "description": "chat via socket.io",
   "main": "index.js",
-  "author": "Grant Timmerman",
-  "private": true,
-  "license": "BSD",
   "dependencies": {
     "express": "3.4.8"
   }
