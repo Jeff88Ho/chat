@@ -7,7 +7,7 @@ A simple chat demo for socket.io
 
 ```
 $ cd chatie
-$ npm install
+$ npm install socket.io
 $ node index.js
 ```
 
