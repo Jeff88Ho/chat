@@ -11,7 +11,7 @@ $ npm install socket.io
 $ node index.js
 ```
 
-Point your browser to `http://localhost:3000` or a port by supplying the `PORT` env variable.
+Point your browser to `http://localhost:3000` or a specific port by supplying the `PORT` env variable.
 
 ## Features
 
