@@ -1,7 +1,7 @@
 
 # chatie
 
-A simple chat demo for socket.io
+chat via socket.io
 
 ## How to use
 
